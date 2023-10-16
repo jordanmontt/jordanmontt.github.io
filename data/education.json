@@ -1,0 +1,25 @@
+{
+    "education": [
+        {
+            "institution": "INRIA, France - Université de Lille",
+            "url": "https://sciences-technologies.univ-lille.fr/",
+            "title": "PhD student in Computer Science",
+            "period": "October 2023 - Present",
+            "notes": ""
+        },
+        {
+            "institution": "Université de Lille - Faculté des Sciences et Technologies",
+            "url": "https://sciences-technologies.univ-lille.fr/",
+            "title": "Master Degree in Software Engineering",
+            "period": "September 2022 - September 2023",
+            "notes": ""
+        },
+        {
+            "institution": "Catholic Bolivian University – Cochabamba Regional (UCB)",
+            "url": "https://cba.ucb.edu.bo",
+            "title": "Engineering degree in Computer Science",
+            "period": "January 2016 - December 2020",
+            "notes": "Graduated with a mention of academic excellence"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "workExperience": [
+        {
+            "id": "phd",
+            "url": "https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille",
+            "employer": "INRIA - Université de Lille, France",
+            "title": "PhD student in Computer Science",
+            "shortDescription" : "Working on fast and safe code instrumentation and memory profiling for object-oriented programming languages.",
+            "description" : "",
+            "period": "October 2023 - Present"
+        },
+        {
+            "id": "engineerPrePhd",
+            "employer": "INRIA, France",
+            "url": "https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille",
+            "title": "Sofware Engineer",
+            "shortDescription" : "Developer of pharo-ai, a machine learning library in Pharo.",
+            "description" : "I was an R&D Software Engineer on the RMoD team, which specializes in software engineering. I was one of the main developers of pharo-ai, a machine learning library implemented in the Pharo programming language. I implemented various machine learning, graph, and genetic algorithms, and created documentation and tutorials. I experimented with optimizing the performance of machine learnign algorithms in Pharo using Foreign Function Interface (FFI) functions; achieving a speed increase of up to 2103 times.",
+            "period": "Apr 2021 - July 2022"
+        },
+        {
+            "id": "semantics",
+            "employer": "Semantics, Bolivia",
+            "url": "https://www.facebook.com/SemanticsBolivia/",
+            "title" : "Virtual Internship in Software Engineering",
+            "description": "",
+            "shortDescription" : "Built a set of modular tools to do complex searches and code transformations using the refactoring engine in Pharo. Code at github.com/jordanmontt/RewriteToolsSet",
+            "period": "Oct 2019 - Dec 2020"
+        },
+        {
+            "id": "aitbol",
+            "employer": "AITBOL, Bolivia",
+            "url" : "https://bo.linkedin.com/company/aitbol-advanced-informatics-and-telecommunications-bolivia",
+            "title": "Junior Software Engineer",
+            "description": "",
+            "shortDescription" : "Full-Stack developer maintaining applications for telecommunications systems.",
+            "period": "November 2017 – June 2018"
+        }
+    ]
+}

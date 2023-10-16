@@ -1,0 +1,54 @@
+{
+    "projects": {
+      "personal": [
+        {
+          "name": "Minimalistic Java debugger",
+          "description": "An implementation of a Java debugger using the Java Debugger Interface (JDI).",
+          "url": "https://github.com/jordanmontt/minimalistic-java-debugger"
+        },
+        {
+          "name": "Rewrite Tools Set",
+          "description": "This set of tools offers advanced search capabilities and complex code transformations using Pharo's refactoring engine.",
+          "url": "https://github.com/jordanmontt/RewriteToolsSet"
+        },
+        {
+          "name": "Traveling Salesman Problem",
+          "description": "An implementation of the ray traveling salesman problem using genetic algorithms.",
+          "url": "https://github.com/jordanmontt/Traveling-Salesman-GA-Pharo"
+        },
+        {
+          "name": "Ray tracing algorithm",
+          "description": "An implementation of the ray tracing algorithm in C++.",
+          "url": "https://github.com/jordanmontt/ray-tracing"
+        },
+        {
+          "name": "pharo-cli",
+          "description": "A command-line Pharo Image manager application written in bash",
+          "url": "https://github.com/jordanmontt/pharo-cli"
+        }
+      ],
+      "work": [
+        {
+          "name": "Illimani Memory Profiler",
+          "description": "A robust and complete memory profiler for Pharo. It is also a memory profiler framework that allows to create custom memory profilers.",
+          "url": "https://github.com/jordanmontt/illimani-memory-profiler"
+        },
+        {
+          "name": "XTDD AI exercises",
+          "description": "AI exercises to be implemented using Debugger-Driven-Development. Which is like TDD but creating and compiling the methods inside the debugger.",
+          "url": "https://github.com/jordanmontt/DDD-pharo-ai-exercises"
+        },
+        {
+          "name": "pharo-ai",
+          "description": "I was one of the lead developers of pharo-ai. I implemented and worked on libraries for machine learning algorithms, statistical metrics, and data preprocessing.",
+          "url": "https://github.com/pharo-ai/"
+        },
+        {
+          "name": "Graph algorithms",
+          "description": "Implementation of several graph algorithms using OOP practices.",
+          "url": "https://github.com/pharo-ai/graph-algorithms"
+        }
+      ]
+    }
+  }
+  
