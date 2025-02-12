@@ -1,0 +1,87 @@
+{
+    "teaching": {
+        "courses": [
+            {
+                "title": "Professor Assistant",
+                "institutionUrl": "https://imt-nord-europe.fr/",
+                "description": "Advanced Object Oriented Programming",
+                "institution" :"IMT Nord Europe",
+                "date": "Second semester 2024",
+                "hours": 38,
+                "ressources": []
+            },
+            {
+                "title": "Teacher",
+                "institutionUrl": "https://newcomers.pharo.org/",
+                "institution" :"Immersive Pharo Summer School 2023",
+                "description": "5 days summer school in which we taught advanced OOP, machine learning, application building, among others.",
+                "date": "September 2023",
+                "hours": 64,
+                "ressources": [
+                    {
+                        "url": "https://github.com/jordanmontt/Presentations/tree/main/2023-summer-school-Split",
+                        "name": "Courses slides"
+                    },
+                    {
+                        "url": "https://github.com/pharo-newcomers/summerschool-code",
+                        "name": "Full course code and learning material"
+                    }
+                ]
+            },
+            {
+                "title": "Professor Assistant",
+                "institutionUrl": "https://cba.ucb.edu.bo/",
+                "description": "Data Structures and Algorithms",
+                "institution" :"Universidad Católica Boliviana",
+                "date": "2019",
+                "hours": 38,
+                "ressources": []
+            },
+            {
+                "title": "Professor Assistant",
+                "institutionUrl": "https://cba.ucb.edu.bo/",
+                "institution" :"Universidad Católica Boliviana",
+                "description": "Introduction to Programming",
+                "date": "2019",
+                "hours": 38,
+                "ressources": []
+            },
+            {
+                "title": "Professor Assistant",
+                "institutionUrl": "https://cba.ucb.edu.bo/",
+                "institution" :"Universidad Católica Boliviana",
+                "description": "Calculus I & II, Differential Equations, Bases of Mathematics",
+                "date": "2019",
+                "hours": 64,
+                "ressources": []
+            }
+        ],
+        "presentations": [
+            {
+                "title" : "Illimani, a memory profiler and a complete memory profiling framework for crafting custom memory profilers",
+                "institution": "European Smalltlk User Group (ESUG)'23 Lyon, France",
+                "institutionUrl": "https://esug.github.io/",
+                "videoUrl": "https://www.youtube.com/watch?v=-dj6ZrJ-0so",
+                "slidesUrl": "https://fr.slideshare.net/slideshow/memory-profiling-in-pharo/260805792",
+                "date": "2023, August"
+
+            },
+            {
+                "title" : "pharo-ai",
+                "institution": "European Smalltlk User Group (ESUG)'22 Novi Sad, Serbia",
+                "institutionUrl": "https://esug.github.io/",
+                "videoUrl": "https://www.youtube.com/watch?v=R5jJBUMLxq8",
+                "slidesUrl": "https://fr.slideshare.net/slideshow/pharoai/253131238",
+                "date": " 2022, August"
+            },
+            {
+                "title" : "Scientific computation with Polymath",
+                "institution": "European Smalltlk User Group (ESUG)'22 Novi Sad, Serbia",
+                "institutionUrl": "https://esug.github.io/",
+                "videoUrl": "https://www.youtube.com/watch?v=WlCkTR9X8ck",
+                "slidesUrl": "https://fr.slideshare.net/OleksandrZaytsev/polymath-esug-2022",
+                "date": " 2022, August"
+            }
+        ]
+    }
+}

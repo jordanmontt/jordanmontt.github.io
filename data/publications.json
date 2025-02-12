@@ -1,0 +1,234 @@
+{
+    "books": [
+        {
+            "title": "Pharo Graps",
+            "type": "booklet",
+            "role": "Primary author",
+            "pdfUrl": "https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/releases/download/latest/PharoGraphs.pdf",
+            "authors": [
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                }
+            ],
+            "year": 2021
+        },
+        {
+            "title": "Application Building with Spec 2.0",
+            "type": "book",
+            "role": "Co-author",
+            "pdfUrl": "https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/BuildingUIWithSpec.pdf",
+            "authors": [
+                {
+                    "name": "Koen",
+                    "lastName": "De Hondt"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                },
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Esteban",
+                    "lastName": "Lorenzano"
+                }
+            ],
+            "year": 2024
+        }
+    ],
+    "papers": [
+        {
+            "title": "MethodProxies: A Safe and Fast Message-Passing Control Library",
+            "authors": [
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Juan Pablo",
+                    "lastName": "Sandoval Alcócer"
+                },
+                {
+                    "name": "Guillermo",
+                    "lastName": "Polito"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                },
+                {
+                    "name": "Pablo",
+                    "lastName": "Tesone"
+                }
+            ],
+            "year": 2024,
+            "type": "workshop",
+            "conference": "IWST '24 June 2024, Lille, France",
+            "pdfUrl": "https://hal.science/hal-04708729v1/document"
+        },
+        {
+            "title": "Evaluating Finalization-Based Object Lifetime Profiling",
+            "authors": [
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Guillermo",
+                    "lastName": "Polito"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                },
+                {
+                    "name": "Pablo",
+                    "lastName": "Tesone"
+                }
+            ],
+            "year": 2024,
+            "type": "conference",
+            "conference": "ISMM '24, June 2024, Copenhagen, Denmark",
+            "pdfUrl": "https://hal.science/hal-04581342v1/document"
+        },
+        {
+            "title": "Improving performance through object lifetime profiling: the DataFrame case",
+            "authors": [
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Guillermo",
+                    "lastName": "Polito"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                },
+                {
+                    "name": "Pablo",
+                    "lastName": "Tesone"
+                }
+            ],
+            "year": 2023,
+            "type": "workshop",
+            "conference": "IWST '23, Aug 2023, Lyon, France",
+            "pdfUrl": "https://hal.science/hal-04253865/file/main.pdf"
+        },
+        {
+            "title": "Garbage Collector Tuning in Pathological Allocation Pattern Applications",
+            "authors": [
+                {
+                    "name": "Nahuel",
+                    "lastName": "Palumbo"
+                },
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Guillermo",
+                    "lastName": "Polito"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                },
+                {
+                    "name": "Pablo",
+                    "lastName": "Tesone"
+                }
+            ],
+            "year": 2023,
+            "type": "workshop",
+            "conference": "IWST '23, Aug 2023, Lyon, France",
+            "pdfUrl": "https://inria.hal.science/hal-04225588v1/document"
+        },
+        {
+            "title": "ILLIMANI Memory Profiler - A Technical Report",
+            "authors": [
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Guillermo",
+                    "lastName": "Polito"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                },
+                {
+                    "name": "Pablo",
+                    "lastName": "Tesone"
+                }
+            ],
+            "year": 2023,
+            "type": "workshop",
+            "conference": "Technical report 2023",
+            "pdfUrl": "https://hal.science/hal-04225251/file/conference_101719.pdf"
+        },
+        {
+            "title": "How Fast is AI in Pharo? Benchmarking Linear Regression",
+            "authors": [
+                {
+                    "name": "Oleksandr",
+                    "lastName": "Zaitsev"
+                },
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                },
+                {
+                    "name": "Stéphane",
+                    "lastName": "Ducasse"
+                }
+            ],
+            "year": 2022,
+            "type": "workshop",
+            "conference": "IWST '22, Aug 2022, Novi Sad, Serbia",
+            "pdfUrl": "https://hal.archives-ouvertes.fr/hal-03768601v2/document"
+        }
+    ],
+    "blogposts": [
+        {
+            "title": "Custom transmissions in the Pharo Inspector",
+            "url": "https://thepharo.dev/2022/07/13/custom-transmissions-in-the-inspector/",
+            "description": "Custom transforming objets when transmitting them inside the Pharo Inspector."
+        },
+        {
+            "title": "Using styles in Spec applications",
+            "url": "https://thepharo.dev/2021/10/25/using-styles-in-spec-applications/",
+            "description": "Using custom styles in Spec applications, a User Interface buillding framework for Pharo."
+        },
+        {
+            "title": "Binding an external library into Pharo",
+            "url": "https://thepharo.dev/2021/10/17/binding-an-external-library-into-pharo/",
+            "description": "Binding the Fortran library: LAPACK for doing linear algebra computations into Pharo."
+        },
+        {
+            "title": "Dynamic layouts with Spec2",
+            "url": "https://thepharo.dev/2021/10/08/dynamic-layouts-with-spec2/",
+            "description": "Using dynamic layouts in the Spec framework."
+        },
+        {
+            "title": "How to build a new Moose tool: The MooseInspector",
+            "url": "https://modularmoose.org/posts/2021-05-04-how-to-build-a-new-moose-tool",
+            "description": "Extending the Pharo inspector to create a new inspector for Moose"
+        },
+        {
+            "title": "Introducing the new Queries Browser",
+            "url": "https://modularmoose.org/posts/2021-10-10-the-new-queries-browser",
+            "description": "A blog post about a new tool developed for Moose technology"
+        }
+    ]
+}

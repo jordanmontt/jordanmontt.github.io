@@ -1,0 +1,44 @@
+{
+    "projects": {
+      "personal": [
+        {
+          "name": "Rewrite Tools Set",
+          "description": "A set of tools that allows to do complex searches and code transformations using the refactoring engine in Pharo. Besides of allowing to do the code rewrites using, this set of tools also provide an API for making the code transformations in a programmatically way.",
+          "url": "https://github.com/jordanmontt/RewriteToolsSet"
+        },
+        {
+          "name": "Traveling Salesman Problem for Pharo",
+          "description": "An implementation of the ray traveling salesman problem using genetic algorithms for Pharo.",
+          "url": "https://github.com/jordanmontt/Traveling-Salesman-GA-Pharo"
+        },
+        {
+          "name": "Traveling Salesman Problem for Java",
+          "description": "An implementation of the ray traveling salesman problem using genetic algorithms for Java.",
+          "url": "https://github.com/jordanmontt/Traveling-Salesman-GA"
+        },
+        {
+          "name": "Ray tracing algorithm",
+          "description": "An implementation of the ray tracing algorithm in C++.",
+          "url": "https://github.com/jordanmontt/ray-tracing"
+        },
+        {
+          "name": "Minimalistic Java debugger",
+          "description": "An implementation of a Java debugger using the Java Debugger Interface (JDI).",
+          "url": "https://github.com/jordanmontt/minimalistic-java-debugger"
+        }
+      ],
+      "work": [
+        {
+          "name": "Illimani Memory Profiler",
+          "description": "A robust and complete memory profiler for Pharo. It is also a memory profiler framework that allows to create custom memory profilers.",
+          "url": "https://github.com/jordanmontt/illimani-memory-profiler"
+        },
+        {
+          "name": "AI exercises",
+          "description": "AI exercises to be implemented using Debugger-Driven-Development. Which is like TDD but creating and compiling the methods inside the debugger.",
+          "url": "https://github.com/jordanmontt/DDD-pharo-ai-exercises"
+        }
+      ]
+    }
+  }
+  
