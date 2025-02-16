@@ -34,11 +34,12 @@ const Logo = () => {
     }, []);
 
     return (
-        <div className="flex items-center">
-            <Link href="/" className="text-3xl font-semibold tracking-tight whitespace-nowrap">
-                {metaData.title}
-            </Link>
-        </div>
+        // <div className="flex items-center">
+        //     <Link href="/" className="text-3xl font-semibold tracking-tight whitespace-nowrap">
+        //         {metaData.title}
+        //     </Link>
+        // </div>
+        <div></div>
     );
 };
 

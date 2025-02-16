@@ -1,14 +1,6 @@
 import Link from "next/link";
+import { navItems } from "../navbar/index"
 
-
-const navItems = {
-    "/": { name: "About Me" },
-    "/education": { name: "Education" },
-    "/projects": { name: "Projects" },
-    "/work-experience": { name: "Work Experience" },
-    "/teaching": { name: "Teaching" },
-    "/publications": { name: "Writings" },
-};
 
 const Sidebar = ({
     isOpen,

@@ -17,7 +17,10 @@ export function Navbar({ toggle }: { toggle: () => void }) {
         <nav className="lg:mb-16 mb-12 py-5">
             <div className="flex flex-col md:flex-row md:items-center justify-center w-full">
                 <div className="flex items-center justify-between w-full md:w-auto">
-                    <Logo />
+
+                    <div  className="mr-32">
+                        <ThemeSwitch />
+                    </div>
 
                     <button type="button" className="inline-flex items-center md:hidden"
                         onClick={toggle}>
@@ -31,21 +34,21 @@ export function Navbar({ toggle }: { toggle: () => void }) {
                                 d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z" />
                         </svg>
                     </button>
-                </div>
 
-                {/*className="flex flex-row gap-4 mt-6 md:mt-0 md:ml-4 items-center whitespace-nowrap"> */}
-                <div className="hidden md:flex gap-x-6 whitespace-nowrap">
-                    {Object.entries(navItems).map(([path, { name }]) => (
-                        <Link
-                            key={path}
-                            href={path}
-                            className=
-                            "transition-all hover:text-neutral-800 dark:hover:text-neutral-200 flex align-middle px-4 py-2 text-lg"
-                        >
-                            {name}
-                        </Link>
-                    ))}
-                    <ThemeSwitch />
+                    {/*className="flex flex-row gap-4 mt-6 md:mt-0 md:ml-4 items-center whitespace-nowrap"> */}
+                    <div className="hidden md:flex gap-x-6 whitespace-nowrap">
+                        {Object.entries(navItems).map(([path, { name }]) => (
+                            <Link
+                                key={path}
+                                href={path}
+                                className=
+                                "transition-all hover:text-neutral-800 dark:hover:text-neutral-200 flex align-middle px-4 py-2 text-lg"
+                            >
+                                {name}
+                            </Link>
+                        ))}
+                    </div>
+
                 </div>
             </div>
         </nav>

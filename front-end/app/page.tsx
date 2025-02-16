@@ -8,7 +8,7 @@ export default function Page() {
         <Image
           src="/photos/pp.jpg"
           alt="Profile photo"
-          className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5 grayscale hover:grayscale-0"
+          className="rounded-full  block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5" // bg-gray-100 hover:grayscale-0 grayscale
           unoptimized
           width={160}
           height={160}
@@ -20,6 +20,11 @@ export default function Page() {
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
+      <p>
+         Check me out on{" "}
+          <a href="https://github.com/jordanmontt" target="_blank">GitHub</a> at {" "}<a href="https://github.com/jordanmontt" target="_blank">jordanmontt</a>.
+        </p>
+
         <p>
           I’m a software engineer currently working on a PhD at {" "}
           <a href="https://www.inria.fr/en/centre-inria-lille-nord-europe" target="_blank">INRIA - Lille</a> (National Institute for Research in Science and Technology, France), focusing on memory profilers, allocation sites, memory optimizations and fast and safe code instrumentation for object-oriented programming languages. I’m part of the Evref research team.
