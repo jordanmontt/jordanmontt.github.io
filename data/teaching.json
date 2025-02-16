@@ -2,9 +2,23 @@
     "teaching": {
         "courses": [
             {
+                "title": "Teacher",
+                "institutionUrl": "https://isloop.pharo.org/2025-montpellier/",
+                "institution" :"International School on Live Object-Oriented Programming 2025",
+                "description": "Winter school on live object-oriented programming and advanced object-oriented design.",
+                "date": "February 2025",
+                "hours": 64,
+                "ressources": [
+                    {
+                        "url": "https://github.com/olekscode/isloop2025",
+                        "name": "Full course code and learning material"
+                    }
+                ]
+            },
+            {
                 "title": "Professor Assistant",
                 "institutionUrl": "https://imt-nord-europe.fr/",
-                "description": "Advanced Object Oriented Programming",
+                "description": "Advanced Object Oriented Programming course for second year master's students.",
                 "institution" :"IMT Nord Europe",
                 "date": "Second semester 2024",
                 "hours": 38,
@@ -14,7 +28,7 @@
                 "title": "Teacher",
                 "institutionUrl": "https://newcomers.pharo.org/",
                 "institution" :"Immersive Pharo Summer School 2023",
-                "description": "5 days summer school in which we taught advanced OOP, machine learning, application building, among others.",
+                "description": "5 days summer school in which we taught advanced OOP, machine learning, application building, testing and meta programming.",
                 "date": "September 2023",
                 "hours": 64,
                 "ressources": [

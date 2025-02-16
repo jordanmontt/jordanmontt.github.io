@@ -6,7 +6,7 @@ export default function Page() {
     <section>
       <a href={socialLinks.github} target="_blank">
         <Image
-          src="/photos/photo1.jpg"
+          src="/photos/pp.jpg"
           alt="Profile photo"
           className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5 grayscale hover:grayscale-0"
           unoptimized
@@ -16,7 +16,7 @@ export default function Page() {
         />
       </a>
       <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Sebastián Jordan Montaño
+        Sebastian Jordan Montaño
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
@@ -27,9 +27,9 @@ export default function Page() {
 
         <p>
           I was one of the main developers for the {" "}
-          <a href="https://github.com/pharo-ai/" target="_blank">pharo-ai project</a>, where I worked on libraries for machine learning algorithms, statistical metrics, and data preprocessing. I also spent several months as a {" "}
+          <a href="https://github.com/pharo-ai/" target="_blank">pharo-ai</a> project, where I worked on libraries for machine learning algorithms, statistical metrics, and data preprocessing. I also spent several months as a {" "}
           <a target="_blank" href="https://github.com/moosetechnology">Moose engineer</a>, developing tools for the {" "}
-          <a href="https://github.com/moosetechnology/MooseIDE" target="_blank">Moose IDE project</a>. I regularly contribute to the Pharo codebase and participate in various Pharo-related projects, including Spec.
+          <a href="https://github.com/moosetechnology/MooseIDE" target="_blank">Moose IDE project</a>. I regularly contribute to the Pharo codebase and participate in various Pharo-related projects, such as Spec.
         </p>
 
         <p>
