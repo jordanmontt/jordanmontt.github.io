@@ -2,7 +2,7 @@ export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
   title: "Sebastian Jordan Montaño",
   name: "Sirius",
-  ogImage: "/opengraph-image.png",
+  ogImage: "/logo.png",
   description:
     "Sebastian Jordan Montaño personal portafolio",
 };
