@@ -1,3 +1,3 @@
-# Personal portafolio
+# Portfolio
 
-This is the repository where I store my personal portafolio web page: [jordanmontt.fr](https://jordanmontt.fr).
+[jordanmontt.fr](https://jordanmontt.fr).

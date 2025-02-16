@@ -4,7 +4,7 @@ export const metaData = {
   name: "Sirius",
   ogImage: "/logo.png",
   description:
-    "Sebastian Jordan Montaño portafolio",
+    "Sebastian Jordan Montaño's portfolio",
 };
 
 export const socialLinks = {
