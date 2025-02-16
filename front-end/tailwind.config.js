@@ -4,6 +4,9 @@ module.exports = {
   content: ["./app/**/*.{js,ts,jsx,tsx,mdx}", "./public/**/*.svg"],
   theme: {
     extend: {
+      colors: {
+        'custom-dark': '#121212',
+      },
       fontFamily: {
         sans: ["var(--font-geist-sans)"],
         mono: ["var(--font-geist-mono)"],
