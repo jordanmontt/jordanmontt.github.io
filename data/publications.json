@@ -71,7 +71,7 @@
             "year": 2024,
             "type": "workshop",
             "conference": "IWST '24 June 2024, Lille, France",
-            "pdfUrl": "https://hal.science/hal-04708729v1/document"
+            "pdfUrl": "https://ceur-ws.org/Vol-3893/Paper07.pdf"
         },
         {
             "title": "Evaluating Finalization-Based Object Lifetime Profiling",
