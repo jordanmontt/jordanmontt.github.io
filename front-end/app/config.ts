@@ -9,7 +9,6 @@ export const metaData = {
 
 export const socialLinks = {
   github: "https://github.com/jordanmontt",
-  instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/in/jordanmontt",
   email: "mailto:sebastian.jordan@inria.fr",
 };
