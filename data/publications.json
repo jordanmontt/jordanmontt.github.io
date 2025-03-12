@@ -45,6 +45,27 @@
     ],
     "papers": [
         {
+            "title": "Phausto: Embedding the Faust Compiler in the Pharo World ",
+            "authors": [
+                {
+                    "name": "Domenio",
+                    "lastName": "Cipriani"
+                },
+                {
+                    "name": " Alessandro",
+                    "lastName": "Anatrini"
+                },
+                {
+                    "name": "Sebastian",
+                    "lastName": "Jordan Montaño"
+                }
+            ],
+            "year": 2024,
+            "type": "workshop",
+            "conference": "4th International Faust Conference (IFC 2024), Nov 2024, Turin, Italy",
+            "pdfUrl": "https://hal.science/hal-04837510v1/document"
+        },
+        {
             "title": "MethodProxies: A Safe and Fast Message-Passing Control Library",
             "authors": [
                 {
