@@ -20,8 +20,8 @@ export default function Page() {
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
-      <p>
-         Check me out on{" "}
+        <p>
+          Check me out on{" "}
           <a href="https://github.com/jordanmontt" target="_blank">GitHub</a> at {" "}<a href="https://github.com/jordanmontt" target="_blank">jordanmontt</a>.
         </p>
 
@@ -39,6 +39,16 @@ export default function Page() {
 
         <p>
           I’ve been involved in open-source projects since 2020 and have worked as a software developer since late 2017.
+        </p>
+
+        <p>
+          Beyond programming languages, I have a deep love for human languages. Feel free to reach out to me in:
+          <ul>
+            <li>Spanish (native)</li>
+            <li>English (C1 - TOEIC 975)</li>
+            <li>French (C1 level)</li>
+            <li>Italian (B2 level, still learning!)</li>
+          </ul>
         </p>
 
         <h2>Contact Details</h2>
