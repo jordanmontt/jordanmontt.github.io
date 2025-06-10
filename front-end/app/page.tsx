@@ -38,17 +38,13 @@ export default function Page() {
         </p>
 
         <p>
-          I’ve been involved in open-source projects since 2020 and have worked as a software developer since late 2017.
+          I’ve been involved in open-source projects since 2020 and have been working professionally as a software developer since late 2017.
         </p>
 
         <p>
           Beyond programming languages, I have a deep love for human languages. Feel free to reach out to me in:
-          <ul>
-            <li>Spanish (native)</li>
-            <li>English (C1 - TOEIC 975)</li>
-            <li>French (C1 level)</li>
-            <li>Italian (B2 level, still learning!)</li>
-          </ul>
+          <br />
+          Spanish, French, English, or Italian (still learning!)
         </p>
 
         <h2>Contact Details</h2>
